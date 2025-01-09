@@ -3,6 +3,7 @@
 
 ### Technologies: 
 
+![AWS](https://img.shields.io/badge/AWS-FF5B00.svg?style=for-the-badge)
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=yellow)]()
 ![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%23316192.svg)
