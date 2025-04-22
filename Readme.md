@@ -1,4 +1,4 @@
-## **Hi, I'm Tomás Giacaman and I'm working at Nörvik Tekniikka SpA. as Software Engineer and Technology Epxert**
+## **Hi, I'm Tomás Giacaman and I'm working at Nörvik Tekniikka SpA. as Software Engineer and Technology Expert**
 
 
 ### Technologies: 
